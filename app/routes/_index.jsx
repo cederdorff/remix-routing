@@ -1,5 +1,5 @@
 export const meta = () => {
-    return [{ title: "New Remix App" }];
+    return [{ title: "New Remix App - Routing" }];
 };
 
 export default function Index() {
